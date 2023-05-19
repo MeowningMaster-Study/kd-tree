@@ -1,3 +1,6 @@
+Point = (int, int)
+
+
 class Point:
     @staticmethod
     def isEqual(point_a, point_b):
